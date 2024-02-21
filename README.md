@@ -109,4 +109,4 @@ If you are having issues please check out the [self hosted docs](https://tina.io
 
 ## Support
 
-If you have any questions, please reach out to us on [Discord](https://discord.com/invite/zumN63Ybpf). We are happy to help!
+If you have any questions, please reach out to us on [Discord](https://discord.com/invite/zumN63Ybpf). We are happy to help !
